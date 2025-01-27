@@ -2,6 +2,6 @@ Site web pour la classification médicale
 https://pixellibre.github.io/ClassificationsMedicales/
 
 Exemple de filtres:
-codes_ais.html?filtreCode=999.9&filtreDescription=Décès
+codes_ais.html?filtreCode=99.9&filtreDescription=Décès
 
 
